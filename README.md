@@ -1,3 +1,5 @@
+[go to USS-1](https://github.com/Universal-SQL-Standard/USS-1)
+
 # Oppinionated standards?
 
 Yes! Years have gone by where countless learners have asked for guidance on platforms like StackOverflow on how to design their conventions regarding sequential databases. Answers can be simplified to "be consistent".
