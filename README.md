@@ -21,3 +21,7 @@ This is why a **Universal SQL Standard** has to be the result of the open source
 ## Limitations
 
 UTF-8 has simplified many concerns regarding encoding and collation, but due to our diverersive planet and its languages, standardization of encoding is still out of reach. However, standards for structure are more than overdue. 
+
+## Invitation
+
+We hereby urge all creators to join this organisation to provide input and be heard.
