@@ -1,5 +1,9 @@
 [go to USS-1](https://github.com/Universal-SQL-Standard/USS-1)
 
+# Universal SQL Standard 
+
+The goal of this project is to define Specifications for SQL-based database structures. The goal is not to limit the flexibility of use cases relational databases provide, but **provide developers the possibility to operate under predictable and abstractable conditions** for easier colaboration and cross-platform and/or plugin development und usage. 
+
 # Oppinionated standards?
 
 Yes! Years have gone by where countless learners have asked for guidance on platforms like StackOverflow on how to design their conventions regarding sequential databases. Answers can be simplified to "be consistent".
